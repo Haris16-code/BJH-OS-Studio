@@ -1,6 +1,6 @@
 # 📘 BJH OS Studio - The Ultimate Developer Guide
 
-**Version:** 1.0.0  
+**Version:** 1.0  
 **Developer:** Muhammad Haris  
 
 ---
