@@ -1,0 +1,5 @@
+{
+  "version": "1.1",
+  "changelog": "<b>New Features:</b><ul><li>Fixed file editor crash issue</li><li>Added double-click to open files</li><li>Improved syntax highlighting</li><li>Better error handling</li></ul><b>Bug Fixes:</b><ul><li>Auto-save now works reliably</li><li>ZIP compilation fixed</li></ul>",
+  "download_url": "https://raw.githubusercontent.com/xyz/bjhstudio/main/releases/bjh_studio_1.3.0.zip"
+}
