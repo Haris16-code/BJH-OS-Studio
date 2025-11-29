@@ -29,10 +29,8 @@ It provides a "What You See Is What You Get" (WYSIWYG) experience with live prev
 
 ### System Requirements
 * **OS:** Windows 10/11, Linux, or macOS
-* **RAM:** Minimum 4 GB
 * **Storage:** 500 MB free
-* **Browser:** Chromium-based browser for live preview
-
+[Download BJH OS Studio Latest Version](https://github.com/Haris16-code/BJH-OS-Studio/releases/tag/bjh-os-studio-first-official-release)
 ---
 
 ## 3. Interface Overview
