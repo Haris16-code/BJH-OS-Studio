@@ -21,7 +21,7 @@
 ## 1. Introduction
 **BJH OS Studio** is the official Integrated Development Environment (IDE) built to empower developers to create robust HTML5-based Applications and Games for the **BJH OS** ecosystem. 
 
-It provides a "What You See Is What You Get" (WYSIWYG) experience with live previewing, syntax highlighting, and integrated asset management, stripping away the complexity of manual configuration.
+It provides a syntax highlighting, and integrated asset management, stripping away the complexity of manual configuration.
 
 ---
 
@@ -30,7 +30,7 @@ It provides a "What You See Is What You Get" (WYSIWYG) experience with live prev
 ### System Requirements
 * **OS:** Windows 10/11, Linux, or macOS
 * **Storage:** 500 MB free
-[Download BJH OS Studio Latest Version](https://github.com/Haris16-code/BJH-OS-Studio/releases/tag/bjh-os-studio-first-official-release)
+### [Download BJH OS Studio Latest Version](https://github.com/Haris16-code/BJH-OS-Studio/releases/tag/bjh-os-studio-first-official-release)
 ---
 
 ## 3. Interface Overview
