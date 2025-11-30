@@ -15,6 +15,7 @@
 7. [BJH OS Integration APIs](#7-bjh-os-integration-apis)
 8. [Compilation & Exporting](#8-compilation--exporting)
 9. [Troubleshooting](#9-troubleshooting)
+10. [Uploading Apps/Games To BJH OS Official Apps Market](#%EF%B8%8F-how-to-upload-apps-to-bjh-os-apps-market)
 
 ---
 
